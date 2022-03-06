@@ -5,4 +5,3 @@ namespace Nghia {
             Console.WriteLine("Nghiadeptrai");
         }
     }
-}
